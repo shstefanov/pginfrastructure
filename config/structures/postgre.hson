@@ -1,0 +1,5 @@
+{
+  engines: [
+    "./lib/engines/pg-pool.js"
+  ]
+}
