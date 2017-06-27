@@ -10,6 +10,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "infrastructure": "^1.4.4"
+    "infrastructure": "^1.4.4",
+    "pg": "^6.4.0"
   }
 }
