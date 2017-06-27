@@ -1,0 +1,7 @@
+{
+  engine: "log",
+  options: {
+    sys: true,
+    error: true
+  }
+}
