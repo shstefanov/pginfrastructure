@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "infrastructure": "^1.4.4",
-    "pg": "^6.4.0"
+    "pg": "^6.4.0",
+    "underscore": "^1.8.3"
   }
 }
