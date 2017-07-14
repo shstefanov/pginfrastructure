@@ -1,0 +1,9 @@
+{
+  user:               "db_username",
+  database:           "db_name",
+  password:           "db_password",
+  host:               "db_host",
+  port:               5432,
+  max:                10,   // Max number of clients in pool
+  idleTimeoutMillis:  30000
+}
