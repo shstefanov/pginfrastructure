@@ -1,0 +1,9 @@
+{
+
+  // "task_name": "path_to_sql_file"
+
+  "drop":           "./sql/drop.sql",
+  "l_schemas":      "./sql/list_schemas.sql",
+  "create_schemas": "./sql/create_schemas.sql",
+  "list_schemas":   "./sql/list_schemas.sql"
+}

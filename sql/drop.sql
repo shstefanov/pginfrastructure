@@ -1,0 +1,3 @@
+
+DROP SCHEMA IF EXISTS my_schema    CASCADE;
+DROP SCHEMA IF EXISTS other_schema CASCADE;
